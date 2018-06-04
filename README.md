@@ -9,3 +9,5 @@ In /routes/index.js und app.js sind auch noch Kommentare für die Logging Funkti
 Zum Testen einfach in diesem Ordner "npm start" und "npm install" ausführen.
 
 Der Rest in das Standard Template von express.
+
+Bei Fragen, könnt ihr auch hier gern ein Issue erstellen!
